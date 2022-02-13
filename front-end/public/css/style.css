@@ -1,0 +1,17 @@
+.preloader__heading.h2 {
+    color: #804d0d;
+}
+.pswp__bg {
+    background: #f0e690 !important; 
+}
+.bg-dark-2 {
+    background-color: #fbf8ec !important;
+}
+.header__container.header__controls {
+    margin-top: -30px;
+}
+
+.slider_2{
+    width: 570px !important;
+    height: 736px !important;
+}
